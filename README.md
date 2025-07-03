@@ -26,18 +26,18 @@ All notebooks use:
 
 ## ✅ Models Implemented
 
-| Model Type            | Notebook Link |
-|-----------------------|----------------|
-| Logistic Regression   | `l[ogistic regression model (titanic).ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/catboost-with-basic-featureengineering-on-titanic.ipynb)` |
-| Decision Tree         | `decision-tree-classifier-on-titanic-dataset.ipynb` |
-| Random Forest         | `random-forest-titanic-dataset.ipynb` |
-| K-Nearest Neighbors   | `knn-titanic-dataset.ipynb` |
-| Naive Bayes           | `naive-bayes-on-titanic-dataset.ipynb` |
-| SVM                   | `svm-on-titanic-dataset.ipynb` |
-| XGBoost               | `xgboost-on-titanic-dataset.ipynb` |
-| LightGBM              | `lightgbm-on-titanic-dataset.ipynb` |
-| CatBoost              | `catboost-with-basic-featureengineering-on-titanic.ipynb` |
-| Stacking Classifier   | `stacking-classifier-titanic-dataset.ipynb` |
+| Model Type          | Notebook Link                                                                                                                                                                                                  |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Logistic Regression | [logistic regression model (titanic).ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/logistic%20regression%20model%20%28titanic%29.ipynb)                   |
+| Decision Tree       | [decision-tree-classifier-on-titanic-dataset.ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/decision-tree-classifier-on-titanic-dataset.ipynb)             |
+| Random Forest       | [random-forest-titanic-dataset.ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/random-forest-titanic-dataset.ipynb)                                         |
+| K-Nearest Neighbors | [knn-titanic-dataset.ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/knn-titanic-dataset.ipynb)                                                             |
+| Naive Bayes         | [naive-bayes-on-titanic-dataset.ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/naive-bayes-on-titanic-dataset.ipynb)                                       |
+| SVM                 | [svm-on-titanic-dataset.ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/svm-on-titanic-dataset.ipynb)                                                       |
+| XGBoost             | [xgboost-on-titanic-dataset.ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/xgboost-on-titanic-dataset.ipynb)                                               |
+| LightGBM            | [lightgbm-on-titanic-dataset.ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/lightgbm-on-titanic-dataset.ipynb)                                             |
+| CatBoost            | [catboost-with-basic-featureengineering-on-titanic.ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/catboost-with-basic-featureengineering-on-titanic.ipynb) |
+| Stacking Classifier | [stacking-classifier-titanic-dataset.ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/stacking-classifier-titanic-dataset.ipynb)                             |
 
 Each model includes:
 - Preprocessing pipeline
