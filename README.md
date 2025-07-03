@@ -28,7 +28,7 @@ All notebooks use:
 
 | Model Type            | Notebook Link |
 |-----------------------|----------------|
-| Logistic Regression   | `logistic regression model (titanic).ipynb` |
+| Logistic Regression   | `l[ogistic regression model (titanic).ipynb](https://github.com/Mohammed-Abdul-Rafe-Sajid/Titanic-Dataset-different-ML-models-/blob/main/catboost-with-basic-featureengineering-on-titanic.ipynb)` |
 | Decision Tree         | `decision-tree-classifier-on-titanic-dataset.ipynb` |
 | Random Forest         | `random-forest-titanic-dataset.ipynb` |
 | K-Nearest Neighbors   | `knn-titanic-dataset.ipynb` |
